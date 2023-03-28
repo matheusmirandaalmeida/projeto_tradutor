@@ -2,7 +2,7 @@ require 'net/http'
 require 'google/cloud/translate'
 
 project_id = 'projecttranslete'
-credentials = 'AIzaSyDhnL0tCpRmi3YZVJwscskWe-3dPLy0QJo'
+credentials = 'AIzaSyCJ8f5ekxlrFTBu4I-Y48s5o9whUJn9TkU'
 
 translate = Google::Cloud::Translate.new project: project_id, credentials: credentials
 
