@@ -1,0 +1,1 @@
+gem 'google-cloud-translate', '~> 3.0'
