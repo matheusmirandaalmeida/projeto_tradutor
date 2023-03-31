@@ -2,8 +2,8 @@ require 'net/http'
 require 'rest-client'
 require 'json'
 
-subscription_key = 'b27e27448be942a8be7f17d20d8ff6d8'
-location  = 'brazilsouth'
+subscription_key = "b27e27448be942a8be7f17d20d8ff6d8"
+location  = "brazilsouth"
 # Definir o endpoint da API
 endpoint = "https://api.cognitive.microsofttranslator.com/"
 
